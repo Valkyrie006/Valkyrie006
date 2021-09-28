@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FBSocial**
 
-- 🌱 I’m currently learning **how to build applications using MERN stack.**
+- 🌱 I’m currently learning **how to build web applications using MERN stack.**
 
 - 📫 How to reach me **aryansinghrock6@gmail.com**
 
